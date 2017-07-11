@@ -1,5 +1,5 @@
 # react-express-landing-page
-## Light Starter For React And Server Side Rendering Supports ES7
+## Sample React Project Demonstration For Learning React, ES7, Babel, Webpack
 
 npm run dev
 npm run start
