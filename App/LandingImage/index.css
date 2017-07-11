@@ -1,0 +1,12 @@
+.LandingImage {
+  width: 100%;
+  max-height: 420px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.LandingImage img {
+  width: 100%;
+}

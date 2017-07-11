@@ -1,0 +1,22 @@
+.Articles {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  padding: .5em;
+}
+
+.Articles article {
+  
+}
+
+@media (max-width: 540px) {
+  .Articles article {
+    width: 100%;
+  }
+}
+
+@media (min-width: 541px) {
+  .Articles article {
+    width: 33%;
+  }
+}
